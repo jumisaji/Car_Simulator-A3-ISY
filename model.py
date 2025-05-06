@@ -12,7 +12,7 @@ Students:
         1. Aide Alejandra Navarro - student ID: A00152439
         2. Manuela Muñoz Ramirez - student ID:  A00140607
         3. Julieth Milena Sanchez Jimenez - student ID: A00157788
-        4. Thiago Silva
+        4. Thiago Elioenai da Silva - student ID: A00107772
         
 Teacher: Husamuddin Mohammed
 
